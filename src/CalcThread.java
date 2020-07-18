@@ -1,5 +1,5 @@
 /*
- * Threads ipologismou tou pi
+ * Threads for calculating pi
  */
 public class CalcThread extends Thread { 
 	private static volatile double pi = 0.0D;
